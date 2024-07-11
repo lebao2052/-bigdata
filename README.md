@@ -1,4 +1,4 @@
-# "Market Capitalization Prediction Project Based on Sales Using Apache Spark"
+# Market Capitalization Prediction Project Based on Sales Using Apache Spark
 
 ## Description
 
