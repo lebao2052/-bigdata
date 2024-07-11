@@ -2,7 +2,7 @@
 
 ## Description
 
-This project focuses on analyzing and predicting market capitalization of companies based on their sales figures. We utilize Apache Spark for processing big data and apply machine learning algorithms such as Linear Regression and Grid Search Regression to build predictive models. The project aims to enhance model accuracy and evaluate results using Root Mean Square Error (RMSE).
+This project focuses on analyzing and predicting market capitalization of companies based on their sales figures. We utilize Apache Spark for processing big data and apply machine learning algorithms such as Linear Regression and Ridge Regression to build predictive models. The project aims to enhance model accuracy and evaluate results using Root Mean Square Error (RMSE).
 
 ## Implementation Steps
 
@@ -18,7 +18,7 @@ This project focuses on analyzing and predicting market capitalization of compan
 
 ### 3. Model Building and Training
 
-- Apply Linear Regression and Grid Search Regression to construct models predicting market capitalization.
+- Apply Linear Regression and Gidge Regression to construct models predicting market capitalization.
 - Optimize model parameters using Grid Search and Cross Validation to ensure optimal performance.
 
 ### 4. Model Evaluation
